@@ -1,0 +1,31 @@
+{
+  "id": "6779f07a-4f6a-40f8-b893-d2297a5888ba",
+  "name": "ALProject1",
+  "publisher": "VBG",
+  "version": "1.0.0.0",
+  "brief": "Pruebas BC",
+  "description": "Proyecto creado para realizar pruebas en Sandbox BC",
+  "privacyStatement": "https://www.germainedecapuccini.es",
+  "EULA": "https://www.germainedecapuccini.es",
+  "help": "https://www.germainedecapuccini.es",
+  "contextSensitiveHelpUrl": "https://www.germainedecapuccini.es",
+  "url": "https://www.germainedecapuccini.es",
+  "logo": "gdc.ico",
+  "dependencies": [],
+  "screenshots": [],
+  "features": [ "TranslationFile", "GenerateCaptions", "GenerateLockedTranslations" ],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}

@@ -1,0 +1,145 @@
+{
+    "name": "Exclusiones VBG",
+    "rules": [
+        {
+            "id": "AA0005",
+            "action": "none"
+        },
+        {
+            "id": "AA0215",
+            "action": "none"
+        },
+        {
+            "id": "AA0074",
+            "action": "none"
+        },
+        {
+            "id": "AA0470",
+            "action": "none"
+        },
+        {
+            "id": "AA0072",
+            "action": "none"
+        },
+        {
+            "id": "AA0218",
+            "action": "none"
+        },
+        {
+            "id": "AA0462",
+            "action": "none"
+        },
+        {
+            "id": "AA0205",
+            "action": "none"
+        },
+        {
+            "id": "AA0214",
+            "action": "none"
+        },
+        {
+            "id": "AA0175",
+            "action": "none"
+        },
+        {
+            "id": "AA0181",
+            "action": "none"
+        },
+        {
+            "id": "AA0206",
+            "action": "none"
+        },
+        {
+            "id": "AS0084",
+            "action": "none"
+        },
+        {
+            "id": "AS0013",
+            "action": "none"
+        },
+        {
+            "id": "PTE0001",
+            "action": "none"
+        },
+        {
+            "id": "PTE0002",
+            "action": "none"
+        },
+        {
+            "id": "PTE0004",
+            "action": "none"
+        },
+        {
+            "id": "PTE0004",
+            "action": "none"
+        },
+        {
+            "id": "PTE0004",
+            "action": "none"
+        },
+        {
+            "id": "AA0240",
+            "action": "none"
+        },
+        {
+            "id": "AS0053",
+            "action": "none"
+        },
+        {
+            "id": "PTE0005",
+            "action": "none"
+        },
+        {
+            "id": "AS0092",
+            "action": "none"
+        },
+        {
+            "id": "AS0099",
+            "action": "none"
+        },
+        {
+            "id": "AL0667",
+            "action": "none"
+        },
+        {
+            "id": "AL0493",
+            "action": "none"
+        },
+        {
+            "id": "AL0603",
+            "action": "none"
+        },
+        {
+            "id": "AA0189",
+            "action": "none"
+        },
+        {
+            "id": "AW0001",
+            "action": "none"
+        },
+        {
+            "id": "AW0002",
+            "action": "none"
+        },
+        {
+            "id": "AA0210",
+            "action": "none"
+        },
+        {
+            "id": "AA0232",
+            "action": "none"
+        },
+        {
+            "id": "AL0269",
+            "action": "none"
+        },
+        {
+            "id": "AW0005",
+            "action": "none"
+        },
+        {
+            "id": "AW0011",
+            "action": "none"
+        }
+    ]
+}
