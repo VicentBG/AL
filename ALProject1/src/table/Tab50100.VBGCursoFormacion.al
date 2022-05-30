@@ -2,6 +2,8 @@ table 50100 "VBGCursoFormacion"
 {
     Caption = 'VBGCursoFormacion';
     DataClassification = ToBeClassified;
+    DrillDownPageId = VBGCursoFormacionList;
+    LookupPageId = VBGCursoFormacionList;
 
     fields
     {

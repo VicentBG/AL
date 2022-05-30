@@ -20,5 +20,10 @@ tableextension 50100 "VBGVendorExt" extends Vendor
             DataClassification = OrganizationIdentifiableInformation;
             ExtendedDatatype = URL;
         }
+        field(50103; VBGCantidadRRSS; Integer)
+        {
+            Caption = 'Cantidad de RRSS';
+            DataClassification = OrganizationIdentifiableInformation;
+        }
     }
 }
